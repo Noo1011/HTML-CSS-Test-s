@@ -1,1 +1,1 @@
-Beganr progect for an web dev student's
+Beganr progect for a new web dev student's
